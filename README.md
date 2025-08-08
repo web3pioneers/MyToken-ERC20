@@ -18,7 +18,7 @@ This contract uses OpenZeppelin’s audited ERC-20 implementation for security a
 ## Deployment
 
 - Deployed to Sepolia testnet  
-- [Sepolia Etherscan link](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS_HERE) *(replace with your deployed contract address)*
+- 0x7574149f40409A8381E94B31b0693610Fb579E9c
 
 ---
 
